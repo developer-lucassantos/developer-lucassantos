@@ -38,10 +38,10 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr>
 <td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide=html,css,markdown&hide_title=true" alt="Linguagens Principais" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-lucassantos&layout=compact&theme=tokyonight&hide=html,css,markdown&hide_title=true" alt="Linguagens Principais" />
 </td>
 <td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=false" alt="Estatísticas Gerais" />
+  <img src="https://github-readme-stats.vercel.app/api?username=developer-lucassantos&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=false" alt="Estatísticas Gerais" />
 </td>
 </tr>
 </table>
