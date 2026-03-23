@@ -1,10 +1,15 @@
 <div align="center">
 
+<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/8Q7pU0q.png">
   <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/Hl8P3zD.png">
-  <img alt="Lucas | Tech Architect" src="https://i.imgur.com/8Q7pU0q.png" width="100%" />
+  <img alt="Lucas | Tech Architect" src="https://i.imgur.com/8Q7pU0q.png" width="100%">
 </picture>
+
+<br />
+<br />
 
 <br/>
 
