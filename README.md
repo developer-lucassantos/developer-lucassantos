@@ -1,12 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/8Q7pU0q.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/Hl8P3zD.png">
-  <img alt="Lucas | Tech Nexus" src="https://i.imgur.com/8Q7pU0q.png" widths="100%" />
-</picture>
 
-<br/>
 
 # [ LUCAS :: TECH ARCHITECT ]
 
@@ -78,7 +72,7 @@
 
 ## [ CONECTAR NA REDE ]
 <p align="center">
-  <a href="https://linkedin.com/in/SEU_LINKEDIN_AQUI">
+ 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:seu.email@exemplo.com">
