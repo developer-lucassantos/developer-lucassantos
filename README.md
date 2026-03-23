@@ -1,38 +1,42 @@
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/8Q7pU0q.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/Hl8P3zD.png">
+  <img alt="Lucas | Tech Architect" src="https://i.imgur.com/8Q7pU0q.png" width="100%" />
+</picture>
 
+<br/>
 
 # [ LUCAS :: TECH ARCHITECT ]
 
-> *“Engenharia de software não é sobre linhas de código; é sobre arquitetar soluções escaláveis, eficientes e impactantes.”*
+> *"A complexidade é o inimigo da execução. Eu construo arquiteturas que transformam lógica em valor real."*
 
 <br/>
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr>
-<td width="40%" valign="top" align="left">
+<td width="55%" valign="top" align="left">
 
-## [ ESPECIALIDADES ATUAIS ]
-<p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Distributed_Systems-A020F0?style=flat" />
-  <img src="https://img.shields.io/badge/Cloud_Native-2496ED?style=flat&logo=docker" />
-  <img src="https://img.shields.io/badge/Automation_Eng-E4405F?style=flat" />
-</p>
+## 📂 OPERAÇÕES EM CURSO
+**💰 FinControl** Arquitetura financeira escalável desenvolvida em **Go**. Foco em performance e integridade de dados.
+
+**🏨 Habbiano Ecosystem** Desenvolvimento de fã-site e ferramentas de automação para a comunidade **Origins**.
+
+**🤖 Algorithmic Tools** Desenvolvimento de HUDs e Bots para análise de dados em tempo real (Suprema Poker).
 
 </td>
-<td width="60%" valign="top" align="right">
+<td width="45%" valign="top" align="right">
 
-## [ FOCO DE DESENVOLVIMENTO ]
-**🏢 Arquitetura FinTech & E-commerce:** FinControl (Go/PostgreSQL) & Habbiano.com (Node.js/Vue.js).
+## 🛠️ TECH STACK
+<p align="right">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
-**🤖 Automação & IA Aplicada:** Scripts de análise de dados (Poker HUD) e robôs de trading/integração.
-
-**🛡️ Segurança & Escalabilidade:** Foco em ambientes Cloud Native (Docker/K8s) e microsserviços.
+<span>**Foco:** Sistemas Distribuídos | Automação | Web3</span>
 
 </td>
 </tr>
@@ -40,49 +44,37 @@
 
 <br/>
 
-## [ O PULSO DA INOVAÇÃO: COMMITS 3D ]
+## 🧊 O PULSO DA INOVAÇÃO (CONTRIBUIÇÕES 3D)
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-3d-contrib.vercel.app/api?username=SEU-USUARIO&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-3d-contrib.vercel.app/api?username=SEU-USUARIO&theme=light">
-    <img alt="3D Contribution Graph" src="https://github-profile-3d-contrib.vercel.app/api?username=SEU-USUARIO&theme=dark" widths="70%">
-  </picture>
+  <img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="90%">
 </p>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Powered_by-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Automated_Data_Feed-00ff00?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Update-Daily_Cycle-blue?style=flat-square" />
 </p>
 
 <br/>
 
-## [ MÉTRICAS AVANÇADAS DE DESEMPENHO ]
+## 📊 ANÁLISE DE DADOS DO PERFIL
 
-<table border="0" cellpadding="10" cellspacing="0" width="100%">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr>
-<td width="55%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide=html,css,markdown&hide_title=false" alt="Linguagens" />
+<td width="50%" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide=html,css,markdown&hide_title=false" alt="Linguagens Principais" />
 </td>
-<td width="45%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_title=true" alt="Estatísticas" />
+<td width="50%" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=false" alt="Estatísticas Gerais" />
 </td>
 </tr>
 </table>
 
 <br/>
 
-## [ CONECTAR NA REDE ]
+<hr />
 <p align="center">
- 
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:seu.email@exemplo.com">
-    <img src="https://img.shields.io/badge/Contato-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <code><b>DETECTION_LOG:</b> Perfil verificado. Acesso autorizado. Repositórios monitorados via CI/CD.</code>
 </p>
 
-<br/>
-<hr/>
-<p align="center">
-  Generated by Lucas's Profile Generator v1.0
-</p>
 </div>
