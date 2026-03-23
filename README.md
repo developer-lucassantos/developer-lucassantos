@@ -1,46 +1,42 @@
-# Olá, eu sou o Lucas! 👋 👨‍💻
+<div align="center">
 
-Sou um desenvolvedor focado em criar soluções práticas, desde sistemas financeiros até scripts e automações para comunidades de jogos.
+<img src="https://i.imgur.com/8FkP1H9.png" alt="Cyberpunk Terminal Header" widths="100%" />
 
----
+<br/>
 
-### 🛠️ No que estou trabalhando:
-- 💰 **FinControl**: Meu app de gestão financeira pessoal.
-- 🏨 **Habbiano.com**: Desenvolvimento de fã-site e ferramentas para Habbo Origins.
-- 🎮 **Game Dev**: Criando um plataforma 2D para minha filha.
-- 🃏 **Poker Bot/HUD**: Automação e análise de dados para Suprema Poker.
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="50%" align="left" valign="top">
 
----
+### [ AGENTE DETECTADO: LUCAS ]
+**Status:** Desenvolvimento Ativo (Full-Stack)
+**Especialidades:** Go | Node.js | Python
+**Conexões Atuais:** Habbo Origins | Automação
 
-### 📊 Minhas Estatísticas
-Aqui você vê o resultado real dos meus commits e tecnologias:
+*"O código é a lei, a lógica é o mestre."*
+</td>
+<td width="50%" align="right" valign="top">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do Lucas" height="190px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide=html,css" alt="Linguagens mais usadas" height="190px" />
-</p>
-
----
-
-### 🚀 Tecnologias e Ferramentas
-<p align="left">
+<p align="right">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Poker_Bot-E4405F?style=for-the-badge&logo=python&logoColor=white" />
 </p>
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-### 🐍 Snake Game (Contribuições)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake.svg">
-</picture>
+## [ OPERAÇÕES EM CURSO ]
 
----
-<p align="center">
-  "O código é a lei, mas a lógica é o mestre." 🛡️
-</p>
+| PROJETO | FOCO / TECNOLOGIAS | STATUS |
+| :--- | :--- | :--- |
+| **FinControl** | 💰 Gestão Financeira Pessoal \| **Go (Gin)**, **PostgreSQL** | `DEPLOYED` |
+| **Habbiano.com** | 🏨 Ferramentas Habbo Origin \| **Node.js**, **Vue.js** | `ACTIVE_DEV` |
+| **Origins Tools** | 🛠 Scripts & Automação \| **Python**, **JavaScript** | `STABLE` |
+| **Game Dev 2D** | 🃏 Plataforma para Filha / HUD Poker \| **Unity**, **C#** \| **Python** | `RESEARCH` |
+
+<br/>
